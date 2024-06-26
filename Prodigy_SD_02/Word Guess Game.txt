@@ -1,0 +1,22 @@
+C:\Users\Meenu>cd OneDrive
+
+C:\Users\Meenu\OneDrive>cd Desktop
+
+C:\Users\Meenu\OneDrive\Desktop>mkdir Word Guessing Game
+
+C:\Users\Meenu\OneDrive\Desktop>mkdir WordGuessingGame
+
+C:\Users\Meenu\OneDrive\Desktop>mkdir "Word Guessing Game"
+
+C:\Users\Meenu\OneDrive\Desktop>cd "Word Guessing Game"
+
+C:\Users\Meenu\OneDrive\Desktop\Word Guessing Game>echo. > index.html
+
+C:\Users\Meenu\OneDrive\Desktop\Word Guessing Game>echo. > style.css
+
+C:\Users\Meenu\OneDrive\Desktop\Word Guessing Game>echo. > script.js
+
+C:\Users\Meenu\OneDrive\Desktop\Word Guessing Game>start .
+
+C:\Users\Meenu\OneDrive\Desktop\Word Guessing Game>code .
+
