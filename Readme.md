@@ -6,8 +6,9 @@
 
 ##     Guessing Game - PRODIGY_SD_Task_2
 ![Word_Guess_Result_1](https://github.com/Meenu00615/Prodigy-InfoTech-Internship/assets/149779716/2ff03816-52a0-4487-a5eb-2ab4060494e3)
-![Word_Guess_Result](https://github.com/Meenu00615/Prodigy-InfoTech-Internship/assets/149779716/2b8d348f-1b3c-48f9-b0d4-d9358e48dfdf)
 <br>
+
+![Word_Guess_Result](https://github.com/Meenu00615/Prodigy-InfoTech-Internship/assets/149779716/2b8d348f-1b3c-48f9-b0d4-d9358e48dfdf)
 ##     Contact Management System - PRODIGY_SD_Task_3
 ![Screenshot 2024-06-23 065645](https://github.com/Meenu00615/Prodigy-InfoTech-Internship/assets/149779716/cc7fa3b9-b4a5-4a7c-a5f6-fcf27b7c024e)
 
